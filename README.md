@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **mohammadrstm2004@gmail.com**
 
+- 📄 Know about my experiences [./MohammadRostomResume.pdf](./MohammadRostomResume.pdf)
+
 - ⚡ Fun fact **I got into coding because I always wanted to know how videos appear on TV screens.**
 
 <h3 align="left">Connect with me:</h3>
