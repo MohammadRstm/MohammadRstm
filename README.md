@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrstm&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrstm" /> </p>
 
-- I’m **
+- I’m excited to share with you all the tech I've built**
 
 - I'm always learning and will always be learning to become the best**
 
 - I’m looking to collaborate on **Full Stack Applications**
 
-- All of my projects are available at [https://mohammadrstm.github.io/Portfolio/](https://mohammadrstm.github.io/Portfolio/)
+- All of my projects are available at [Portfolio](https://mohammadrstm.github.io/Portfolio/)
 
 - How to reach me **mohammadrstm2004@gmail.com**
 
