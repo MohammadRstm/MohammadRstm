@@ -13,7 +13,7 @@
 
 - How to reach me **mohammadrstm2004@gmail.com**
 
-- Know about my experiences [./MohammadRostomResume.pdf](./MohammadRostomResume.pdf)
+- Know about my experiences [./MohammadRostomResume.pdf](./MohammadRostom.pdf)
 
 - Fun fact **I got into coding because I always wanted to know how videos appear on TV screens.**
 
