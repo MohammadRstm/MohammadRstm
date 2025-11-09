@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrstm&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrstm" /> </p>
 
-- 🔭 I’m currently working on **Bank Management System**
+- I’m **
 
-- 🌱 I’m currently learning **AWS & Laravel**
+- I'm always learning and will always be learning to become the best**
 
-- 👯 I’m looking to collaborate on **Full Stack Applications**
+- I’m looking to collaborate on **Full Stack Applications**
 
-- 👨‍💻 All of my projects are available at [https://mohammadrstm.github.io/Portfolio/](https://mohammadrstm.github.io/Portfolio/)
+- All of my projects are available at [https://mohammadrstm.github.io/Portfolio/](https://mohammadrstm.github.io/Portfolio/)
 
-- 📫 How to reach me **mohammadrstm2004@gmail.com**
+- How to reach me **mohammadrstm2004@gmail.com**
 
-- 📄 Know about my experiences [./MohammadRostomResume.pdf](./MohammadRostomResume.pdf)
+- Know about my experiences [./MohammadRostomResume.pdf](./MohammadRostomResume.pdf)
 
-- ⚡ Fun fact **I got into coding because I always wanted to know how videos appear on TV screens.**
+- Fun fact **I got into coding because I always wanted to know how videos appear on TV screens.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
