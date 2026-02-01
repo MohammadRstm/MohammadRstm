@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrstm&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrstm" /> </p>
 
-- I’m excited to share with you all the tech I've built**
+- I’m excited to share with you all the tech I've built
 
 - How to reach me **mohammadrstm2004@gmail.com**
 
