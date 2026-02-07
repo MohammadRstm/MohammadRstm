@@ -1,4 +1,7 @@
 name: GitHub-Profile-Summary-Cards
+permissions:
+  contents: write
+
 
 on:
   schedule:
