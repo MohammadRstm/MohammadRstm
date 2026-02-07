@@ -70,9 +70,8 @@
     <img src="https://img.shields.io/badge/Qdrant-FF6F61?style=for-the-badge&logo=qdrant&logoColor=white" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadrstm&show_icons=true&locale=en&layout=compact" alt="mohammadrstm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadrstm&show_icons=true&locale=en" alt="mohammadrstm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrstm&" alt="mohammadrstm" /></p>
+<br />
+<br />
+<h1>Stats</h1>
+<img src="https://streak-stats.demolab.com?user=MohammadRstm&theme=radical" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadRstm&theme=radical" />
